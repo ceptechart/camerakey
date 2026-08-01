@@ -1,0 +1,8 @@
+{
+  "camerakey.configuration.title": "Camera Key Mod Config",
+  "camerakey.configuration.section.camerakey.common.toml": "Camera Key Mod Configs",
+  "camerakey.configuration.section.camerakey.common.toml.title": "Camera Key Mod Configs",
+  "camerakey.configuration.default_seq_time": "Default Playback Length",
+  "camerakey.configuration.enable_spline": "Enable Catmull-Rom Splines",
+  "camerakey.configuration.default_interpolation_mode": "Default Interpolation Mode"
+}
